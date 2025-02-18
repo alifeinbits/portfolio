@@ -26,7 +26,7 @@ const Playlist = () => {
         >
           <div className="aspect-w-16 aspect-h-9">
             <iframe
-              src="https://open.spotify.com/embed/playlist/YOUR_PLAYLIST_ID"
+              src="https://open.spotify.com/embed/playlist/2eby4v3p3x716tmwJMlJt5"
               width="100%"
               height="380"
               frameBorder="0"
